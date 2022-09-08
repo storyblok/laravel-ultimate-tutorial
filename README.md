@@ -1,3 +1,5 @@
+<img src="https://a.storyblok.com/f/88751/1958x1180/634a4356e4/og-ut-laravel.jpg/m/1024x0" alt="The Storyblok Laravel Ultimate Tutorial"/>
+
 # The Storyblok Laravel Ultimate Tutorial
 
 In [the Storyblok Laravel Utlimate Tutorial](https://www.storyblok.com/tp/render-storyblok-stories-dynamically-in-laravel) series, you will learn how to build a headless website using Storyblok and Laravel.
