@@ -6,6 +6,12 @@ use Illuminate\Support\Facades\Route;
 Route::get('/{slug?}', function ($slug = 'home') {
     // Load the Token from the Configuration
     $storyblok = new \Storyblok\Client(config('storyblok.api_key'));
+    // If you are using a US space:
+    // $storyblok = new \Storyblok\Client(
+    //     apiKey: config('storyblok.api_key'),
+    //     apiRegion: 'us'
+    // );
+
     // Enable the edit mode to load preview content
     $storyblok->editMode();
     try {
