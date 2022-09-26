@@ -9,7 +9,6 @@
 </head>
 
 <body class="antialiased">
-  <x-common.header></x-common.header>
   {{ $slot }}
   <script type="text/javascript" src="//app.storyblok.com/f/storyblok-v2-latest.js"></script>
   <script type="text/javascript">
