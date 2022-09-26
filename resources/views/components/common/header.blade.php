@@ -4,12 +4,13 @@
     </a>
     <nav>
       <ul class="flex space-x-8 text-lg font-bold">
+        @foreach ($headerMenu as $menuItem)
         <li>
-          <x-common.menu_item link="/blog" label="Blog" />
+          <x-common.menu_item link="{{url(
+            Arr::get($menuItem, 'link.story.full_slug', '/')
+          )}}" label="{{Arr::get($menuItem, 'link.story.name', '')}}" />
         </li>
-        <li>
-          <x-common.menu_item link="/about" label="About" />
-        </li>
+        @endforeach
       </ul>
     </nav>
   </div>

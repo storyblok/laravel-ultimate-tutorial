@@ -20,7 +20,13 @@ You can even replicate the corresponding Storyblok space for each of the tutoria
  - Branch: [part-2](https://github.com/storyblok/laravel-ultimate-tutorial/tree/part-2)
  - Storyblok space: [Create your own copy](https://app.storyblok.com/#!/build/166652)
 
+### Part 3
+ - Tutorial: [Create Dynamic Menus in Storyblok and Laravel](https://www.storyblok.com/tp/create-dynamic-menus-in-storyblok-and-laravel)
+ - Branch: [part-3](https://github.com/storyblok/laravel-ultimate-tutorial/tree/part-3)
+ - Storyblok space: [Create your own copy](https://app.storyblok.com/#!/build/168925)
+
  
+
 
 ## References
 
