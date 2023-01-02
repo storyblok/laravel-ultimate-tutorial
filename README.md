@@ -2,11 +2,11 @@
 
 # The Storyblok Laravel Ultimate Tutorial
 
-In [the Storyblok Laravel Utlimate Tutorial](https://www.storyblok.com/tp/render-storyblok-stories-dynamically-in-laravel) series, you will learn how to build a headless website using Storyblok and Laravel.
+In [the Storyblok Laravel Ultimate Tutorial](https://www.storyblok.com/tp/render-storyblok-stories-dynamically-in-laravel) series, you will learn how to build a headless website using Storyblok and Laravel.
 Starting with the fundamental integration of Storyblok in Laravel, more advanced functionalities are explained in bite-sized content pieces, such as dynamic page rendering, dynamic menus, custom components, multilingual content and more.
 
 You can switch between the different branches of this repository; there is one branch for each tutorial part.
-You can even replicate the corresponding Storyblok space for each of the tutorial parts in order to explore its exact configuration. 
+You can even replicate the corresponding Storyblok space for each of the tutorial parts to explore its exact configuration.
 
 ## Tutorial Parts
 
@@ -25,7 +25,11 @@ You can even replicate the corresponding Storyblok space for each of the tutoria
  - Branch: [part-3](https://github.com/storyblok/laravel-ultimate-tutorial/tree/part-3)
  - Storyblok space: [Create your own copy](https://app.storyblok.com/#!/build/168925)
 
- 
+### Part 4
+ - Tutorial: [Create Custom Components in Storyblok and Laravel](https://www.storyblok.com/tp/create-custom-components-in-storyblok-and-laravel)
+ - Branch: [part-4](https://github.com/storyblok/laravel-ultimate-tutorial/tree/part-4)
+ - Storyblok space: [Create your own copy](https://app.storyblok.com/#!/build/166654)
+
 
 
 ## References
