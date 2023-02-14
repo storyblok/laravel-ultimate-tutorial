@@ -31,5 +31,6 @@ Route::get('/{slug?}', function ($slug = 'home') {
         abort(500, $e->getMessage());
     }
     // load the blade page
+
     return view('index', ['story' => (object) $data['story']]);
 });
